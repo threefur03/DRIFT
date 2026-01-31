@@ -25,9 +25,6 @@ where:
 - **Q(x,t)**: Source = Q_veh + Q_occ + Q_merge
 - **-λR**: Decay/forgetting
 
-<p align="center">
-  <img src="output/drift_source_components.png" alt="Source Decomposition" width="900">
-</p>
 
 ## Source Terms
 
