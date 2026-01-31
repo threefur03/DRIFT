@@ -32,3 +32,6 @@ where:
 | Q_veh | Vehicle-induced risk using GVF-style anisotropic Gaussians weighted by TTC, relative speed, and vehicle class |
 | Q_occ | Occlusion hazard in sensor shadow behind large vehicles; higher at lane centers and truck edges where cut-ins emerge |
 | Q_merge | Merge conflict pressure; intensifies toward gore point with topology-driven drift |
+
+## Dataset and Data Engineering
+see another repo: https://github.com/PeterWANGHK/Benchmark-RiskField.git
