@@ -37,4 +37,4 @@ where:
 see another repo: https://github.com/PeterWANGHK/Benchmark-RiskField.git
 
 ## Demonstration example:
-![Diffusion](./assets/drift_risk_propagation(1).gif)
+![Diffusion](/assets/drift_risk_propagation(1).gif)
