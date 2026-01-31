@@ -13,9 +13,8 @@ This repository is the official implementation of DRIFT.
 
 The risk field R(x,t) evolves according to:
 
-```
-τ ∂²R/∂t² + ∂R/∂t + ∇·(v_eff R) = ∇·(D∇R) + Q(x,t) - λR
-```
+
+$τ ∂²R/∂t² + ∂R/∂t + ∇·(v_eff R) = ∇·(D∇R) + Q(x,t) - λR$
 
 where:
 - **τ∂²R/∂t²**: Telegrapher inertia (wave-like, finite propagation speed)
