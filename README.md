@@ -21,4 +21,4 @@ This repository is the official implementation of DRIFT.
 see another repo: https://github.com/PeterWANGHK/Benchmark-RiskField.git
 
 ## Demonstration example:
-![Advection effect](/assets/drift_advection_correct.gif)
+![Advection effect](/assets/drift_advection_effect.gif)
