@@ -23,5 +23,7 @@ python drift_visualization.py --output ./output --frames 60 --fps 6
 #   --frames        Number of animation frames (default: 80)
 #   --fps           Frames per second (default: 8)
 ```
-### demonstrations of the advection effects using the empirical PDE parameters (pending fine-tuning):
-![Advection effect](/assets/drift_advection_correct.gif)
+### demonstrations of the advection-diffusion effects with merging topology and occlusion using the empirical PDE parameters (pending fine-tuning):
+![effect](/assets/drift_advection_correct.gif)
+### demonstration of advection-diffusion effects with occlusion-aware risk modeling in occluded zone
+![effect](/assets/drift_advection_pde.gif)
