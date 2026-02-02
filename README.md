@@ -21,4 +21,10 @@ This repository is the official implementation of DRIFT.
 see another repo: https://github.com/PeterWANGHK/Benchmark-RiskField.git
 
 ## Demonstration example:
-![Advection effect](/assets/drift_advection_effect.gif)
+
+### single vehicle field propagation (with truck occlusion effects)
+![Individual effect](/assets/drift_singlecar.gif)
+
+### Group field propagation:
+![Group effect](/assets/drift_advection_effect.gif)
+
