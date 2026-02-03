@@ -29,6 +29,7 @@ see another repo: https://github.com/PeterWANGHK/Benchmark-RiskField.git
 
 2. **Run verification:**
    ```bash
+   cd src
    python test_pde_fixes.py
    ```
 
