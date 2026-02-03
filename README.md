@@ -39,7 +39,7 @@ see another repo: https://github.com/PeterWANGHK/Benchmark-RiskField.git
    python drift_pde_visualization.py
    ```
 
-4. **Fine-tune parameters** if needed (see tuning guide above)
+4. **Fine-tune parameters** if needed (see tuning guide in another branch)
 
 
 ## Demonstration example:
