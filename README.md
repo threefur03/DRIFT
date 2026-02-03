@@ -46,6 +46,9 @@ see another repo: https://github.com/PeterWANGHK/Benchmark-RiskField.git
 ### single vehicle field propagation (with truck occlusion effects)
 ![Individual effect](/assets/drift_singlecar.gif)
 
+### single vehicle with static occluder (obstacle)
+![Individual effect](/assets/drift_occlusion_static.gif)
+
 ### Group field propagation:
 ![Group effect](/assets/drift_advection_effect.gif)
 
