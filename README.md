@@ -20,6 +20,26 @@ This repository is the official implementation of DRIFT.
 ## Dataset and Data Engineering
 see another repo: https://github.com/PeterWANGHK/Benchmark-RiskField.git
 
+## Getting started
+
+1. **Install dependencies:**
+   ```bash
+   pip install numpy scipy matplotlib imageio
+   ```
+
+2. **Run verification:**
+   ```bash
+   python test_pde_fixes.py
+   ```
+
+3. **Generate visualization:**
+   ```bash
+   python drift_pde_visualization.py
+   ```
+
+4. **Fine-tune parameters** if needed (see tuning guide above)
+
+
 ## Demonstration example:
 
 ### single vehicle field propagation (with truck occlusion effects)
