@@ -24,12 +24,13 @@ see another repo: https://github.com/PeterWANGHK/Benchmark-RiskField.git
 
 1. **Install dependencies:**
    ```bash
+   git clone https://github.com/PeterWANGHK/DRIFT.git
    pip install numpy scipy matplotlib imageio
    ```
 
 2. **Run verification:**
    ```bash
-   cd src
+   cd Drift/src
    python test_pde_fixes.py
    ```
 
