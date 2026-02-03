@@ -30,7 +30,7 @@ see another repo: https://github.com/PeterWANGHK/Benchmark-RiskField.git
 
 2. **Run verification:**
    ```bash
-   cd Drift/src
+   cd DRIFT/src
    python test_pde_fixes.py
    ```
 
