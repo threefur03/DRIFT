@@ -53,7 +53,7 @@ see another repo: https://github.com/PeterWANGHK/Benchmark-RiskField.git
 ![Group effect](/assets/drift_advection_effect.gif)
 
 ### Group field propagation with occlusion-aware and merging pressure:
-![Group effect_occlusion_merging](/assets/drift_advection_pde_v2.gif)
+![Group effect_occlusion_merging](/assets/drift_occlusion_merging.gif)
 
 ### Ablation study: the effects of each contributing term (advection, diffusion)
 ```bash
