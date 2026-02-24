@@ -17,8 +17,6 @@ This repository is the official implementation of DRIFT.
 | Q_occ | Occlusion hazard in sensor shadow behind large vehicles; higher at lane centers and truck edges where cut-ins emerge |
 | Q_merge | Merge conflict pressure; intensifies toward gore point with topology-driven drift |
 
-## Dataset loading and Sceanario Engineering
-see another repo: https://github.com/PeterWANGHK/Benchmark-RiskField.git
 
 ## Getting started
 
