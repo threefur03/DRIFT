@@ -64,7 +64,7 @@ python drift_pde_visualization.py --ablation --frames 70 --fps 8
 
 ![Group effect_occlusion](/assets/drift_ablation_study.gif)
 
-### Risk field overlay with BEV datasets:
+### Risk field overlay with BEV datasets (rounD as an example):
 ```bash
 python drift_dataset_visualization.py
 python video_generation.py #please change the video folder by your self
