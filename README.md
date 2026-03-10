@@ -36,12 +36,7 @@ This repository is the official implementation of DRIFT.
    ```bash
    python drift_pde_visualization.py
    ```
-4. **Loading sceanrioos from BEV dataset** if needed (please specify the dataset directory in corresponding code lines in your drif_pde_xxd.py)
-   ```bash
-   #example usage of exiD dataset
-   python drift_pde_exid.py --recording 00 --ego_id 5
-   ```
-5. **Fine-tune parameters** if needed (see tuning guide in another branch)
+
 
 ## Demonstration example:
 
